@@ -1,8 +1,6 @@
 #!/bin/bash
 # week5 - Chapter 5 script
 
-echo "Hi guys, this is my chapter 5 script."
-
 # view kernel's boot and messages
 dmesg | less
 
